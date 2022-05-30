@@ -1,0 +1,16 @@
+{
+  "name": "livrosecafe",
+  "version": "1.0.5",
+  "description": "for students",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "author": "Jeferson Eduardo Guido",
+  "license": "ISC"
+}
